@@ -4,6 +4,7 @@
 |ALLWORLDCARDS| https://href.li/?http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion|
 |AlphaBay (tor)| http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion|
 |AlphaBay (i2p)| tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p|
+|AMIGOS| https://amigos.gs/
 |ARES| http://sn2sfdqay6cxztroslaxa36covrhoowe6a5xug6wlm6ek7nmeiujgvad.onion/|
 |ARVIN| http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion|
 |ASEAN| asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion|
